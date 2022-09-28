@@ -1,3 +1,3 @@
 [submodule "themes/fhtw"]
-	path = themes/fhtw
+	path = assets/themes/fhtw
 	url = https://github.com/sabicalija/beamerthemefhtw.git
